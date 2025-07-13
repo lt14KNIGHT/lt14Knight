@@ -5,14 +5,14 @@
 
 <p align="center">
   This is where I blend coffee, code, and chaos into creation.  
-  I'm currently focused on building projects in <strong>DS</strong>, <strong>AIML</strong>, and <strong>embedded systems</strong>.
+  Currently focused on building projects in <strong>DSc</strong>, <strong>AIML</strong>, and <strong>embedded systems</strong>.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lt14KNIGHT&label=Visitors&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=lt14KNIGHT&label=Accessed&color=ff003c&style=plastic" />
 </p>
 
-<p align="center"><em>Don’t mind the low visitor count... they usually don’t live long enough to be counted ¯\\_(ツ)_/¯</em></p>
+<p align="center"><em>Don’t mind the low visitor count... they usually don’t live long enough to be counted ¯\_(ツ)_/¯</em></p>
 
 ---
 
@@ -22,16 +22,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![lt14KNIGHT's GitHub stats](https://github-readme-stats.vercel.app/api?username=lt14KNIGHT&show_icons=true&theme=algolia)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lt14KNIGHT&layout=compact&theme=algolia)  
@@ -39,7 +35,7 @@
 
 ---
 
-## 🌐 Let's Connect
+## Links
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ltandon14" target="_blank">

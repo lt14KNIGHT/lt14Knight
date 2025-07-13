@@ -4,19 +4,13 @@
 </p>
 
 <p align="center">
-  This is where I blend coffee, code, and chaos into creation ¯\\_(ツ)_/¯ <br>
+  This is where I blend coffee, code, and chaos into creation ¯\_(ツ)_/¯ <br>
   Currently focused on building projects in <strong>DSc</strong>, <strong>AIML</strong>, and <strong>Embedded Systems</strong>.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lt14KNIGHT&label=Visitors&color=6f42c1&style=for-the-badge" width="180"/>
-</p>
-
-<p align="center"><em>Don’t mind the low visitor count... they usually don’t live long enough to be counted.</em></p>
-
 ---
 
-## Tools & Technologies
+<h2 align="center"> Tools & Technologies</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
@@ -27,7 +21,7 @@
 
 ---
 
-## Links
+<h2 align="center"> Links</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ltandon14" target="_blank">
@@ -45,16 +39,13 @@
 
 ---
 
-## GitHub Stats
+<h2 align="center"> GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lt14KNIGHT&show_icons=true&theme=algolia" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lt14KNIGHT&layout=compact&theme=algolia" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lt14KNIGHT&theme=algolia" />
 </p>
 
 ---

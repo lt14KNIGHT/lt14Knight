@@ -23,20 +23,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:ltandon14@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" />
-  </a>
-</p>
-
----
-
-<h2 align="center"> Links</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ltandon14" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
-  </a>
-  &nbsp;&nbsp;
   <a href="mailto:ltandon14@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" />
   </a>

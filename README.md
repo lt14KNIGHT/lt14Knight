@@ -24,14 +24,15 @@
 <h2 align="center"> Links</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ltandon14" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
+  <a href="https://www.linkedin.com/in/ltandon14" target="_blank" title="Let’s connect">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=202124" height="35" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:ltandon14@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" />
+  <a href="mailto:ltandon14@gmail.com" target="_blank" title="Say hi ☕">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=202124" height="35" />
   </a>
 </p>
+
 
 
 ---

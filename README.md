@@ -26,6 +26,10 @@
   <a href="https://www.linkedin.com/in/ltandon14" target="_blank" title="Let’s connect">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=202124" height="35" />
   </a>
+  &nbsp;
+  <a href="https://tandon.netlify.app" target="_blank" title="My magical lil website ✨">
+    <img src="https://img.shields.io/badge/✨%20Portfolio-violet?style=for-the-badge&logo=netlify&logoColor=white&labelColor=8B5CF6" height="35" />
+  </a>
 </p>
 
 ---

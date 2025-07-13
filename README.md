@@ -4,15 +4,9 @@
 </p>
 
 <p align="center">
-  This is where I blend coffee, code, and chaos into creation.  
+  This is where I blend coffee, code, and chaos into creation ¯\_(ツ)_/¯.  
   Currently focused on building projects in <strong>DSc</strong>, <strong>AIML</strong>, and <strong>embedded systems</strong>.
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lt14KNIGHT&label=Visitors&color=ff005c&style=for-the-badge" style="width: 300px; height: auto;" />
-</p
-
-<p align="center"><em>Don’t mind the low visitor count... they usually don’t live long enough to be counted ¯\_(ツ)_/¯</em></p>
 
 ---
 
@@ -43,9 +37,6 @@
   </a>
   <a href="mailto:ltandon14@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" />
-  </a>
-  <a href="https://github.com/lt14KNIGHT">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
   </a>
 </p>
 

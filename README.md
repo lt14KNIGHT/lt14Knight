@@ -31,10 +31,6 @@
   <a href="mailto:ltandon14@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/lt14KNIGHT">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  </a>
 </p>
 
 ---
@@ -42,14 +38,4 @@
 <h2 align="center"> GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lt14KNIGHT&show_icons=true&theme=algolia" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lt14KNIGHT&layout=compact&theme=algolia" />
-</p>
-
----
-
-<p align="center">
-  Thanks for visiting my profile :) Stay curious, stay kind!
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lt14KNIGHT&show_icons=true&theme=_

@@ -38,4 +38,14 @@
 <h2 align="center"> GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lt14KNIGHT&show_icons=true&theme=_
+  <img src="https://github-readme-stats.vercel.app/api?username=lt14KNIGHT&show_icons=true&theme=algolia" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lt14KNIGHT&layout=compact&theme=algolia" />
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile :) Stay curious, stay kind!
+</p>

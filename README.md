@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lt14KNIGHT&label=Accessed&color=ff003c&style=plastic" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=lt14KNIGHT&label=Visitors&color=ff005c&style=for-the-badge" style="width: 300px; height: auto;" />
+</p
 
 <p align="center"><em>Don’t mind the low visitor count... they usually don’t live long enough to be counted ¯\_(ツ)_/¯</em></p>
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
@@ -39,13 +39,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ltandon14" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
   </a>
   <a href="mailto:ltandon14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" />
   </a>
   <a href="https://github.com/lt14KNIGHT">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
   </a>
 </p>
 

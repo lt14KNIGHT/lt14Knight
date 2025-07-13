@@ -1,5 +1,9 @@
 <p align="center">
-  This is where I blend coffee, code, and chaos into creation ¯\_(ツ)_/¯ <br>
+  <img src="https://github.com/user-attachments/assets/90eab785-6ec0-47bb-a610-3ed1896a7863" width="100%" />
+</p>
+
+<p align="center">
+  This is where I blend coffee, code, and chaos into creation <br>
   Currently focused on building projects in <strong>DSc</strong>, <strong>AIML</strong>, and <strong>Embedded Systems</strong>.
 </p>
 
@@ -14,6 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </p>
 
+
 ---
 
 <h2 align="center"> Links</h2>
@@ -23,8 +28,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:ltandon14@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" />
+  <a href="mailto:ltandon14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="30"/>
   </a>
 </p>
 
@@ -33,3 +38,4 @@
 <p align="center">
   Thanks for visiting my profile :) Stay curious, stay kind!
 </p>
+

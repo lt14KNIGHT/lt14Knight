@@ -31,5 +31,6 @@
 ---
 
 <p align="center">
-  Thanks for visiting my profile :) Stay curious, stay kind!
+  Thanks for visiting my profile :) <br>
+  Stay curious, stay kind!
 </p>

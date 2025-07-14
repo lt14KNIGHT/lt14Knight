@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  This is where I blend code, chaos, and coffee into creation ! <br>
+  
   Currently focused on building projects in <strong>DSc</strong>, <strong>AIML</strong>, and <strong>Embedded Systems</strong>.
 </p>
 

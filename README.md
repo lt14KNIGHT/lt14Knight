@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  
   Currently focused on building projects in <strong>DSc</strong>, <strong>AIML</strong>, and <strong>Embedded Systems</strong>.
 </p>
 
@@ -27,9 +26,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=202124" height="35" />
   </a>
   &nbsp;
-  <a href="https://tandon.netlify.app" target="_blank" title="My magical lil website ✨">
-    <img src="https://img.shields.io/badge/✨%20Portfolio-violet?style=for-the-badge&logo=netlify&logoColor=white&labelColor=8B5CF6" height="35" />
-  </a>
+  
+<a href="https://tandon.netlify.app" target="_blank" title="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-00AD9F?style=for-the-badge&labelColor=202124" height="35" />
+</a>
 </p>
 
 ---

@@ -33,12 +33,19 @@
 </p>
 
 ---
-<h2 align="center"> GitHub Stats</h2>
+---
+
+<h2 align="center"> GitHub&nbsp;Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laksh&show_icons=true&hide_border=false&theme=algolia" height="180" />
- 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lt14KNIGHT&show_icons=true&theme=algolia"
+    height="180"
+  />
+  &nbsp;
+  
 </p>
+
 
 <p align="center">
   Thanks for visiting my profile :) <br>

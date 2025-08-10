@@ -11,31 +11,12 @@
 <h2 align="center"> Tools & Technologies</h2>
 
 <p align="center">
-  <style>
-  .logos {
-    display: flex;
-    gap: 8px;
-    align-items: center;
-    line-height: 0;
-  }
-  .logos img {
-    height: 40px;
-    width: auto;
-    object-fit: contain;
-    vertical-align: middle;
-  }
-</style>
-
-<div class="logos">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Verilog_logo.svg" alt="Verilog" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Xilinx_Vivado_Logo.png" alt="Vivado" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" />
 </p>
 
 ---

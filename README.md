@@ -13,18 +13,11 @@
 
 <p align="center">
 <strong>Graph Neural Network Fraud Detection</strong><br>
-Trained GraphSAGE and GAT on the Elliptic Bitcoin transaction graph (203K transactions).<br>
-Achieved <strong>AUC 0.981 / F1 0.733</strong>; competitive with XGBoost baseline.<br>
-Demonstrates learning fraud patterns directly from graph topology.<br>
 <a href="https://github.com/lt14KNIGHT/Graph-Fraud-Detection-with-GNN">View Repository</a>
 </p>
 
 <p align="center">
 <strong>MCP-Based Research Paper Agent</strong><br>
-Built a FastMCP server with tool-based architecture for arXiv retrieval, methodology extraction, 
-paper comparison, and report generation.<br>
-Implements deterministic tool chaining with local LLM (Qwen2.5 via Ollama).<br>
-Enables automated multi-step analysis of research papers.<br>
 <a href="https://github.com/lt14KNIGHT/MCP-Research-Paper-Agent">View Repository</a>
 </p>
 
